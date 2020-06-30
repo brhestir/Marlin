@@ -2,6 +2,7 @@
 ================================================================================
 
   Marlin Firmware
+  (using modified Configuration.h and Configuration_adv.h for Ender 3 Pro)
 
   (c) 2011-2019 MarlinFirmware
   Portions of Marlin are (c) by their respective authors.
