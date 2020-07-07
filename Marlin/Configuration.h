@@ -1688,7 +1688,7 @@
  * you must uncomment the following option or it won't work.
  *
  */
-#define SDSUPPORT   // disabled to save 18036 bytes
+//#define SDSUPPORT   // disabled to save 18036 bytes
 
 /**
  * SD CARD: SPI SPEED
