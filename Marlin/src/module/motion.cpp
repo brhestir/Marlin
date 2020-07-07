@@ -24,6 +24,10 @@
  * motion.cpp
  */
 
+#define X_HOME_BUMP_MM 5
+#define Y_HOME_BUMP_MM 5
+#define Z_HOME_BUMP_MM 2
+
 #include "motion.h"
 #include "endstops.h"
 #include "stepper.h"

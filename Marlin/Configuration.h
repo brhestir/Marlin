@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@brhestir 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-MarlinFirmware
-/
-Configurations
-43
-205454
-Code
-Issues
-8
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Configurations/config/examples/Creality/Ender-3 Pro/Configuration.h
-@thinkyhead
-thinkyhead Examples Customizations
-Latest commit 6993b35 8 days ago
- History
- 1 contributor
-2313 lines (1981 sloc)  82.5 KB
-  
 /**
  * Marlin 3D Printer Firmware
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
@@ -1723,7 +1688,7 @@ Latest commit 6993b35 8 days ago
  * you must uncomment the following option or it won't work.
  *
  */
-#define SDSUPPORT
+#define SDSUPPORT   // disabled to save 18036 bytes
 
 /**
  * SD CARD: SPI SPEED
